@@ -1,0 +1,5 @@
+{
+    "port": "COM10",
+    "board": "arduino:samd:mkrzero",
+    "sketch": "Rough_Draft_Bois.ino"
+}
