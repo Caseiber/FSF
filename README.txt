@@ -1,6 +1,7 @@
 README
 
-This is for my senior design project, which is a parking space sensor. 
-It will eventually contain code to run the sensors, the server, and the client which reads off available parking spaces.
+This is for my senior engineering design project, which is a parking space sensor.
 
-For now it is rather empty.
+The program is made to be used with an Arduino MKR WiFi 1010 microcontroller. 
+
+Current functionality allows it to calibrate itself when not under a car, and detect when a car is on top of it. Later modifications will include Bluetooth broadcasting and battery saving functions.
