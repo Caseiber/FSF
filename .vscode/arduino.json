@@ -1,0 +1,5 @@
+{
+    "port": "COM5",
+    "board": "arduino:samd:mkrwifi1010",
+    "sketch": "Testing\\IR\\IR.ino"
+}

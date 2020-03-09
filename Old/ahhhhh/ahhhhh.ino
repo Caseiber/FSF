@@ -117,5 +117,5 @@ Serial.print("Magnetic Field in Y-Axis : ");
 Serial.println(yMag);
 Serial.print("Magnetic Field in Z-Axis : ");
 Serial.println(zMag);
-delay(500);
+delay(2000);
 }
