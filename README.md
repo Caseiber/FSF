@@ -1,4 +1,4 @@
-README
+#README
 
 This is for my senior engineering design project, which is a parking space sensor.
 
