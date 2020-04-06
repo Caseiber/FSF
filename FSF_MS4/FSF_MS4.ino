@@ -1,7 +1,8 @@
 /*
 Sketch developed by Caroline Smith for her Senior Design Project
 
-Algorithm for reading IR distances based off of tutorial at "https://www.makerguides.com/sharp-gp2y0a21yk0f-ir-distance-sensor-arduino-tutorial/" 
+Algorithm for reading IR distances based off of tutorial at "https://www.makerguides.com/sharp-gp2y0a21yk0f-ir-distance-sensor-arduino-tutorial/" using the library
+from "https://github.com/zoubworldArduino/ZSharpIR"
 
 Algorithm for reading magnetic fields based off of tutorial at "http://arduinolearning.com/code/arduino-mlx90393-magnetic-field-sensor-example.php"
   and "https://learn.adafruit.com/mlx90393-wide-range-3-axis-magnetometer/arduino" using the library from "https://github.com/tedyapo/arduino-MLX90393 by Theodore Yapo"
